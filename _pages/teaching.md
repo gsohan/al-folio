@@ -6,15 +6,18 @@ title: teaching
 nav: true
 nav_order: 5
 ---
-## East Carolina University, Aug. 2022 - present
+### East Carolina University, Aug. 2022 - present
+#### Spring 2024
+* ICTN 4904/05: Cyberinfrastructure Security Management
+* ICTN 6870: Advanced Network Security
+#### Fall 2023
+* ICTN 4200/01: Intrusion Detection Technologies
+* ICTN 4520: Wireless Communication
+#### Spring 2023
+* ICTN 4904/05: Cyberinfrastructure Security Management
+* ICTN 6870: Advanced Network Security
 #### Fall 2022
-* ICTN 4200: Intrusion Detection Technologies , Section 001, 002
-  
-
-* ICTN 4201: Intrusion Detection Technologies , Section 001, 002 
-
-
-
+* ICTN 4200/01: Intrusion Detection Technologies 
 
 ### University of Texas Permian Basin, Aug. 2020 - Jul. 2022
 
@@ -36,7 +39,7 @@ nav_order: 5
 * COSC 4380: Cryptography
 * COSC 6389: Selected Topics – Machine Learning
 
-#### Summmer 2022 Courses:
+#### Summmer 2022 Course:
 * COSC 4370: Data Communication 
 
 ### University of Nebraska – Lincoln, Jan. 2020 - May. 2020
