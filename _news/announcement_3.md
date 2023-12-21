@@ -1,7 +1,7 @@
 ---
-#layout: post
-#date: 2016-01-15 07:59:00-0400
-#inline: true
+layout: post
+date: 2023-09-06
+inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper titled 'Distributed Neural Network-Based DDoS Detection in Vehicular Communication Systems' published in the 2023 IEEE ICSPCS.
