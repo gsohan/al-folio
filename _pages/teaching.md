@@ -10,12 +10,15 @@ nav_order: 5
 #### Spring 2024
 * ICTN 4904/05: Cyberinfrastructure Security Management
 * ICTN 6870: Advanced Network Security
+  
 #### Fall 2023
 * ICTN 4200/01: Intrusion Detection Technologies
 * ICTN 4520: Wireless Communication
+  
 #### Spring 2023
 * ICTN 4904/05: Cyberinfrastructure Security Management
 * ICTN 6870: Advanced Network Security
+  
 #### Fall 2022
 * ICTN 4200/01: Intrusion Detection Technologies 
 
