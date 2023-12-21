@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2015-11-01 
 inline: true
 ---
 
-A simple inline announcement.
+Presented our research paper, 'Enhanced and Explainable Deep Learning Based Intrusion Detection in IoT Networks', at MILCOM 2023 Conference.
