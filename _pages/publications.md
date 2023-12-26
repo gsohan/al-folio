@@ -8,7 +8,7 @@ years: [2023,2022,2021,2020,2019,2018]
 nav: true
 nav_order: 1
 ---
-For full publications please refer to: <a href="[https://www.w3schools.com/](https://scholar.google.com/citations?user=W9PeBjUAAAAJ)">Google Scholar</a>
+For full publications please refer to: <a href="https://scholar.google.com/citations?user=W9PeBjUAAAAJ">Google Scholar</a>
 
 <!-- _pages/publications.md -->
 <div class="publications">
