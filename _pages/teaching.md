@@ -5,6 +5,7 @@ title: teaching
 #description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
+news: true
 ---
 ### East Carolina University, Aug. 2022 - present
 #### Spring 2024
