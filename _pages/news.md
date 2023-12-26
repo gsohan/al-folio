@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /news/
 title: news
 #description: For full list refer to: https://scholar.google.com/citations?user=W9PeBjUAAAAJ
