@@ -8,7 +8,7 @@ years: [2023,2022,2021,2020,2019,2018]
 nav: true
 nav_order: 1
 ---
-For full list refer to: <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+For full list refer to: <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"></a>
 
 <!-- _pages/publications.md -->
 <div class="publications">
